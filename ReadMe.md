@@ -4,7 +4,7 @@
 The Event Management System is a comprehensive solution designed to streamline the planning, organization, and execution of events. It provides tools for managing attendees, scheduling, ticketing, and more.
 
 ## Features
-- User registration and authentication
+- User registration and authentication 
 - Event creation and management
 - Ticket booking and payment processing
 - Attendee management
